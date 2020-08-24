@@ -1,0 +1,56 @@
+fieldset{
+    border-radius: 1em !important;
+    text-align: justify !important;
+}
+body{
+    background-image: url(https://vips.org/wp-content/uploads/2018/09/question-background.png);
+    /* background-image: url(https://image.freepik.com/free-vector/neon-question-mark-frame-quiz-lighting-interrogation-point-red-neon-lamp-bricks-wall-texture-background-illustration_102902-1207.jpg); */
+    padding: 25px;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.one {
+    background-color: dimgray;
+    color: white;
+    border: 2px solid white;
+    opacity: 0.9;
+    padding: 20px;
+}
+.two {
+    background-color: dimgray;
+    color: white;
+    border: 2px solid white;
+    opacity: 0.9;
+    padding: 20px;
+}
+.three {
+    background-color: dimgray;
+    color: white;
+    border: 2px solid white;
+    opacity: 0.9;
+    padding: 20px;
+}
+.four {
+    background-color: dimgray;
+    color: white;
+    border: 2px solid white;
+    opacity: 0.9;
+    padding: 20px;
+}
+.five {
+    background-color: dimgray;
+    color: white;
+    border: 2px solid white;
+    opacity: 0.9;
+    padding: 20px;
+}
+.six {
+    text-align: center;
+}
+.btn-success {
+    margin-top: 10px;
+    border-color: #3e6f49;
+    background-color: #191b19;
+}
